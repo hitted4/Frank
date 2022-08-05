@@ -22,8 +22,16 @@
 		},
 		{
 			"Name": "VictoryBPLibrary",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "http://www.ue4code.com"
+		},
+		{
+			"Name": "Water",
+			"Enabled": true
+		},
+		{
+			"Name": "GPULightmass",
+			"Enabled": true
 		}
 	]
 }
