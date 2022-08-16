@@ -22,10 +22,8 @@
 		},
 		{
 			"Name": "VictoryBPLibrary",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "http://www.ue4code.com"
-<<<<<<< Updated upstream
-=======
 		},
 		{
 			"Name": "Water",
@@ -34,14 +32,6 @@
 		{
 			"Name": "GPULightmass",
 			"Enabled": true
-		},
-		{
-			"Name": "RawInput",
-			"Enabled": true
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
 		}
 	]
 }
