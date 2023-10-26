@@ -9,3 +9,7 @@ For a copy-paste repository of the blueprints go to: https://blueprintue.com/pro
 For the thesis go to: https://drive.google.com/file/d/1rE5Siai6NcsTciMnr4jLWHpXJI4u-0nT/view
 
 Download Executable (Windows only): https://hitted4.itch.io/frank-technical-demo
+
+Video previews: 
+  Main Level        https://www.youtube.com/watch?v=WkeJw2kgozw
+  Tutorial          https://www.youtube.com/watch?v=iRxDh6XFvT0
