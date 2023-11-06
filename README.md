@@ -11,6 +11,6 @@ For the thesis go to: https://drive.google.com/file/d/1rE5Siai6NcsTciMnr4jLWHpXJ
 Download Executable (Windows only): https://hitted4.itch.io/frank-technical-demo
 
 Video previews: 
+
   Main Level        https://www.youtube.com/watch?v=WkeJw2kgozw
-  
   Tutorial          https://www.youtube.com/watch?v=iRxDh6XFvT0
